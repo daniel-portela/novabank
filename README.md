@@ -1,9 +1,3 @@
-![Typescript: orientação a objetos](https://imgur.com/9399vxd.png)
-
-# Typescript: orientação a objetos
-
-Este projeto faz parte da escola Front-end e tem como objetivo ensinar a transformar trechos de código originalmente cosntruídos em programação funcional para programação orientada a objetos, destacando as diferenças entre os dois paradigmas.
-
 ## Funcionalidades do projeto
 
 O projeto contará com o desenvolvimento de:
@@ -14,3 +8,8 @@ O projeto contará com o desenvolvimento de:
 - Métodos estáticos;
 - Herança de classes;
 - Decorators de validação.
+
+## Veja a demonstração abaixo:
+
+https://github.com/user-attachments/assets/a24e1f47-1d9f-4bc6-a766-3979593e0110
+
