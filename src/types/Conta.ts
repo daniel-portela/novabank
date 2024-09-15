@@ -95,7 +95,7 @@ export class ContaPremium extends Conta {
     }
 }
 
-const conta = new Conta("Joana da Silva Olveira");
-const contaPremium = new ContaPremium("Mônica Hillman")
+const conta = new Conta("Daniel Portela");
+const contaPremium = new ContaPremium("Ane Santos")
 
 export default conta;
